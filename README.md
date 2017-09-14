@@ -1,0 +1,1 @@
+# PHP-Photo-GPS-Reader
